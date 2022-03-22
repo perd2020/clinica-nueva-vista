@@ -1,0 +1,78 @@
+body{
+
+}
+.encabezado{
+  background-color:blue;
+border:2px solid grey;
+width:100%;
+height:auto;
+text-align:center;
+font-family:helvetica;
+font-size:15px;
+color:#C0C0C0;
+}
+#titulo1{
+font-family: helvetica;
+font-size: 80px;
+color:#C0C0C0;
+}
+.contenedor{
+float:left;
+}
+
+.caja1 .caja2 .caja3 .caja4{
+  width:auto;
+  height:auto;
+}
+.caja1{
+  border: 2px solid grey;
+
+}
+.caja2{
+
+}
+.caja3{
+
+}
+.caja4{
+  background-image:url();
+
+}
+
+footer{
+border:2px solid grey;
+width:100%;
+height:50%;
+display:flex;
+
+}
+#ingles{
+font-size: 15px;
+color :#C0C0C0;
+}
+
+#platinum{
+  font-size: 15px;
+  color :#C0C0C0;
+}
+#tweed{
+  font-size: 15px;
+  color :#C0C0C0;
+}
+
+#stud{
+  font-size: 15px;
+  color :#C0C0C0;
+}
+.info{
+  border:5px solid grey;
+width:50%;
+height:100%;
+float:right;
+color:#C0C0C0;
+}
+h2{
+font-family:helvetica;
+font-size:26px;
+color:#C0C0C0;
+}
